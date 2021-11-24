@@ -75,6 +75,7 @@ namespace Business.Concrete
         {
             var tokenDecode = new JwtSecurityToken(jwtEncodedString: token.Token);
             var resultString = tokenDecode.Claims.First(c => c.Type == "FirstName").Value;
+            resultString = resultString +"&"+ tokenDecode.Claims.First(c => c.Type == "Id").Value;
             if (resultString != null)
                 return new SuccessResult(resultString);
             return new ErrorResult("Token geçerli değil");
