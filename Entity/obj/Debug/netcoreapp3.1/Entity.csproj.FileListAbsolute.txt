@@ -1,0 +1,13 @@
+C:\Users\berat\source\repos\AdminPage\Entity\bin\Debug\netcoreapp3.1\Entity.deps.json
+C:\Users\berat\source\repos\AdminPage\Entity\bin\Debug\netcoreapp3.1\Entity.dll
+C:\Users\berat\source\repos\AdminPage\Entity\bin\Debug\netcoreapp3.1\Entity.pdb
+C:\Users\berat\source\repos\AdminPage\Entity\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\berat\source\repos\AdminPage\Entity\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\berat\source\repos\AdminPage\Entity\obj\Debug\netcoreapp3.1\Entity.AssemblyInfoInputs.cache
+C:\Users\berat\source\repos\AdminPage\Entity\obj\Debug\netcoreapp3.1\Entity.AssemblyInfo.cs
+C:\Users\berat\source\repos\AdminPage\Entity\obj\Debug\netcoreapp3.1\Entity.csproj.CoreCompileInputs.cache
+C:\Users\berat\source\repos\AdminPage\Entity\obj\Debug\netcoreapp3.1\Entity.csproj.CopyComplete
+C:\Users\berat\source\repos\AdminPage\Entity\obj\Debug\netcoreapp3.1\Entity.dll
+C:\Users\berat\source\repos\AdminPage\Entity\obj\Debug\netcoreapp3.1\Entity.pdb
+C:\Users\berat\source\repos\AdminPage\Entity\obj\Debug\netcoreapp3.1\Entity.csproj.AssemblyReference.cache
+C:\Users\berat\source\repos\AdminPage\Entity\obj\Debug\netcoreapp3.1\Entity.GeneratedMSBuildEditorConfig.editorconfig
